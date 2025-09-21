@@ -30,7 +30,7 @@ This is a Spring Boot based application that provides a simple banking system to
 
 ### Prerequisites
 
-- **Java ** or higher installed on your system.
+- **Java** or higher installed on your system.
 - **Maven** build tool installed.
 - **Heidi SQL** installed and running.
 - **Git** installed for version control.
